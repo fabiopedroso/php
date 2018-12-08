@@ -1,7 +1,9 @@
 <?php
 
-  echo 'Ola mundao da porra';
 
-  echo 'Curso desenvolvimento Web';
+  echo 'Ola mundao!';
+
+  echo 'Curso desenvolvimento Web de PHP';
+
 
 ?>
